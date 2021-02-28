@@ -10,7 +10,7 @@ Pay very close attention to your list indexes
 and your < vs <= operators.
 '''
 
-s
+
 def find_smallest_positive(xs):
     '''
     Assume that xs is a list of numbers sorted
